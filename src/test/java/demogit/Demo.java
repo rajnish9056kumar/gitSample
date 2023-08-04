@@ -8,6 +8,7 @@ public class Demo {
 	{
 		
 		System.out.println("seco");
+		System.out.println("push done");
 	}
 
 }
