@@ -6,7 +6,7 @@ public class Demo {
 	@Test
 	public void show()
 	{
-		System.out.println("git commit git");
+		
 		System.out.println("seco");
 	}
 
